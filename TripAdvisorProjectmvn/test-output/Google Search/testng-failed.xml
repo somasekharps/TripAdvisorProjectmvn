@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Google Search]">
+  <test thread-count="5" name="Testing(failed)" parallel="classes">
+    <parameter name="Url" value="http://demo.guru99.com/test/newtours/"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="TestNgCaseStudies.TC_Rediff001">
+        <methods>
+          <include name="Rediff001"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestNgCaseStudies.TC_Rediff001 -->
+      <class name="TestNgCaseStudies.TC01Google">
+        <methods>
+          <include name="AutomationTestingAutoSuggested"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestNgCaseStudies.TC01Google -->
+      <class name="TestNgCaseStudies.TC_Google02">
+        <methods>
+          <include name="AutomationTestingAutoSuggested"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestNgCaseStudies.TC_Google02 -->
+    </classes>
+  </test> <!-- Testing(failed) -->
+</suite> <!-- Failed suite [Google Search] -->

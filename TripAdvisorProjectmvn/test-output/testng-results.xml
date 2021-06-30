@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Hornbill Ranch organic farmstay]]>
+    </line>
+    <line>
+      <![CDATA[Hornbill Ranch organic farmstay]]>
+    </line>
+    <line>
+      <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+    </line>
+    <line>
+      <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+    </line>
+    <line>
+      <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+    </line>
+    <line>
+      <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+    </line>
+    <line>
+      <![CDATA[The Wild Cabana Resort]]>
+    </line>
+    <line>
+      <![CDATA[The Wild Cabana Resort]]>
+    </line>
+    <line>
+      <![CDATA[4 Acre estate for rent]]>
+    </line>
+    <line>
+      <![CDATA[4 Acre estate for rent]]>
+    </line>
+    <line>
+      <![CDATA[4 Bedroom Spacious Independent villa]]>
+    </line>
+    <line>
+      <![CDATA[4 Bedroom Spacious Independent villa]]>
+    </line>
+    <line>
+      <![CDATA[Amrutha castle,countryclub,Hyderabad]]>
+    </line>
+    <line>
+      <![CDATA[Deluxe room In Hitech Shilparamam Guest House 1]]>
+    </line>
+    <line>
+      <![CDATA[Deluxe Room In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Deluxe Room In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Balcony room 1 In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Balcony room 1 In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Balcony Room in Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[Balcony Room in Hitech Shilparamam Guest House]]>
+    </line>
+    <line>
+      <![CDATA[3BHK Luxurious Apartment in Banjara Hills, Road Number 13]]>
+    </line>
+    <line>
+      <![CDATA[3BHK Luxurious Apartment in Banjara Hills, Road Number 13]]>
+    </line>
+    <line>
+      <![CDATA[V.K.S SERVICE APARTMENT]]>
+    </line>
+    <line>
+      <![CDATA[V.K.S SERVICE APARTMENT]]>
+    </line>
+    <line>
+      <![CDATA[2 Bedroom Apartment near Basavatarakam Indo American Cancer Hospital.]]>
+    </line>
+    <line>
+      <![CDATA[2 Bedroom Apartment near Basavatarakam Indo American Cancer Hospital.]]>
+    </line>
+    <line>
+      <![CDATA[VKS FURNISHED APARTMENT 3]]>
+    </line>
+    <line>
+      <![CDATA[VKS FURNISHED APARTMENT 3]]>
+    </line>
+    <line>
+      <![CDATA[Hornbill Ranch organic farmstay]]>
+    </line>
+    <line>
+      <![CDATA[Hornbill Ranch organic farmstay]]>
+    </line>
+    <line>
+      <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+    </line>
+    <line>
+      <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+    </line>
+    <line>
+      <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+    </line>
+    <line>
+      <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+    </line>
+    <line>
+      <![CDATA[The Wild Cabana Resort]]>
+    </line>
+    <line>
+      <![CDATA[The Wild Cabana Resort]]>
+    </line>
+    <line>
+      <![CDATA[Beautiful, Peaceful 2BHK Independent house for family or small group for stay]]>
+    </line>
+    <line>
+      <![CDATA[Beautiful, Peaceful 2BHK Independent house for family or small group for stay]]>
+    </line>
+    <line>
+      <![CDATA[Royal Fitness Retreat at the Taj Falaknuma Palace]]>
+    </line>
+    <line>
+      <![CDATA[Royal Fitness Retreat at the Taj Falaknuma Palace]]>
+    </line>
+    <line>
+      <![CDATA[SRR HOMES]]>
+    </line>
+    <line>
+      <![CDATA[SRR HOMES]]>
+    </line>
+    <line>
+      <![CDATA[Falcons Nest Lariviera Suites]]>
+    </line>
+    <line>
+      <![CDATA[Falcons Nest Lariviera Suites]]>
+    </line>
+    <line>
+      <![CDATA[Luxury A/C Rooms Accommodation.]]>
+    </line>
+    <line>
+      <![CDATA[Luxury A/C Rooms Accommodation.]]>
+    </line>
+    <line>
+      <![CDATA[the iteam is searched]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="187590" started-at="2021-06-25T04:36:25Z" finished-at="2021-06-25T04:39:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="187590" started-at="2021-06-25T04:36:25Z" finished-at="2021-06-25T04:39:33Z">
+      <class name="com.qa.testscript.TripAdvisor">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.TripAdvisor@185d8b6]" name="setUp" is-config="true" duration-ms="52284" started-at="2021-06-25T04:36:25Z" finished-at="2021-06-25T04:37:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.tripadvisor.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="serachTrip(java.lang.String)[pri:0, instance:com.qa.testscript.TripAdvisor@185d8b6]" name="serachTrip" duration-ms="132842" started-at="2021-06-25T04:37:18Z" data-provider="getData" finished-at="2021-06-25T04:39:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Hornbill Ranch organic farmstay]]>
+            </line>
+            <line>
+              <![CDATA[Hornbill Ranch organic farmstay]]>
+            </line>
+            <line>
+              <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+            </line>
+            <line>
+              <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+            </line>
+            <line>
+              <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+            </line>
+            <line>
+              <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+            </line>
+            <line>
+              <![CDATA[The Wild Cabana Resort]]>
+            </line>
+            <line>
+              <![CDATA[The Wild Cabana Resort]]>
+            </line>
+            <line>
+              <![CDATA[4 Acre estate for rent]]>
+            </line>
+            <line>
+              <![CDATA[4 Acre estate for rent]]>
+            </line>
+            <line>
+              <![CDATA[4 Bedroom Spacious Independent villa]]>
+            </line>
+            <line>
+              <![CDATA[4 Bedroom Spacious Independent villa]]>
+            </line>
+            <line>
+              <![CDATA[Amrutha castle,countryclub,Hyderabad]]>
+            </line>
+            <line>
+              <![CDATA[Deluxe room In Hitech Shilparamam Guest House 1]]>
+            </line>
+            <line>
+              <![CDATA[Deluxe Room In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Deluxe Room In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Balcony room 1 In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Balcony room 1 In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Single Room In Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Balcony Room in Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[Balcony Room in Hitech Shilparamam Guest House]]>
+            </line>
+            <line>
+              <![CDATA[3BHK Luxurious Apartment in Banjara Hills, Road Number 13]]>
+            </line>
+            <line>
+              <![CDATA[3BHK Luxurious Apartment in Banjara Hills, Road Number 13]]>
+            </line>
+            <line>
+              <![CDATA[V.K.S SERVICE APARTMENT]]>
+            </line>
+            <line>
+              <![CDATA[V.K.S SERVICE APARTMENT]]>
+            </line>
+            <line>
+              <![CDATA[2 Bedroom Apartment near Basavatarakam Indo American Cancer Hospital.]]>
+            </line>
+            <line>
+              <![CDATA[2 Bedroom Apartment near Basavatarakam Indo American Cancer Hospital.]]>
+            </line>
+            <line>
+              <![CDATA[VKS FURNISHED APARTMENT 3]]>
+            </line>
+            <line>
+              <![CDATA[VKS FURNISHED APARTMENT 3]]>
+            </line>
+            <line>
+              <![CDATA[Hornbill Ranch organic farmstay]]>
+            </line>
+            <line>
+              <![CDATA[Hornbill Ranch organic farmstay]]>
+            </line>
+            <line>
+              <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+            </line>
+            <line>
+              <![CDATA[Hima Serenity （A Private Holiday Home）]]>
+            </line>
+            <line>
+              <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+            </line>
+            <line>
+              <![CDATA[Charming English Villa in Downtown Somajiguda - 5 Bedrooms Ensuite]]>
+            </line>
+            <line>
+              <![CDATA[The Wild Cabana Resort]]>
+            </line>
+            <line>
+              <![CDATA[The Wild Cabana Resort]]>
+            </line>
+            <line>
+              <![CDATA[Beautiful, Peaceful 2BHK Independent house for family or small group for stay]]>
+            </line>
+            <line>
+              <![CDATA[Beautiful, Peaceful 2BHK Independent house for family or small group for stay]]>
+            </line>
+            <line>
+              <![CDATA[Royal Fitness Retreat at the Taj Falaknuma Palace]]>
+            </line>
+            <line>
+              <![CDATA[Royal Fitness Retreat at the Taj Falaknuma Palace]]>
+            </line>
+            <line>
+              <![CDATA[SRR HOMES]]>
+            </line>
+            <line>
+              <![CDATA[SRR HOMES]]>
+            </line>
+            <line>
+              <![CDATA[Falcons Nest Lariviera Suites]]>
+            </line>
+            <line>
+              <![CDATA[Falcons Nest Lariviera Suites]]>
+            </line>
+            <line>
+              <![CDATA[Luxury A/C Rooms Accommodation.]]>
+            </line>
+            <line>
+              <![CDATA[Luxury A/C Rooms Accommodation.]]>
+            </line>
+            <line>
+              <![CDATA[the iteam is searched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- serachTrip -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testscript.TripAdvisor@185d8b6]" name="teardown" is-config="true" duration-ms="1478" started-at="2021-06-25T04:39:31Z" finished-at="2021-06-25T04:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testscript.TripAdvisor -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
